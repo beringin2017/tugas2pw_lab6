@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(25, 25, 25);
+}
+
+.navbar{
+    background-color: rgb(65, 64, 64);
+}
+
+.login h1{
+    text-align: left;
+    color: white;
+}
+
+.login p{
+    text-align: left;
+    color: white;
+}
+
+.email{
+    width: 70%;
+    text-align: left;
+    color: white;
+}
+
+.form-text{
+    color: aliceblue;
+}
+
+.form-control{
+    background-color: rgb(25, 25, 25);
+}
+
+.form-check-input{
+    background-color: rgb(25, 25, 25);
+}
+
+#tulisan{
+    color: white;
+    text-align: center;
+}
+
+.col img{
+    object-fit: cover;
+    height: 400px;
+}
+#galeri{
+    color: white;
+    text-align: center;
+    margin: 0px 20px 0px 20px;
+}
+
+.card-body{
+    color: white;
+    background-color: rgb(25, 25, 25);
+}
+
+.card img{
+    object-fit: cover;
+    height: 500px;
+}
+
+#footer{
+    color: white;
+    background-color: grey;
+    text-align: center;
+}
+
+.fb,.ig,.gh{
+    font-size: 40px;
+    margin: 0px 5px 0px 5px;
+}
